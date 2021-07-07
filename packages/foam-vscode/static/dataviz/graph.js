@@ -1,5 +1,8 @@
 const CONTAINER_ID = 'graph';
 
+<script src="//unpkg.com/force-graph"></script>
+<script src="https://d3js.org/d3.v6.min.js%22%3E</script>
+
 /** The style fallback. These values should only be used when all else fails. */
 const styleFallback = {
   background: '#202020',
